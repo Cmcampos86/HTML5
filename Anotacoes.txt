@@ -1,0 +1,2 @@
++ Extensão Live Server VS Code: atualiza a página em tempo real. Simula um servidor web.
++ ctrl + ; comenta uma linha na página
