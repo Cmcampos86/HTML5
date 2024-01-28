@@ -1,2 +1,10 @@
 + Extensão Live Server VS Code: atualiza a página em tempo real. Simula um servidor web.
 + ctrl + ; comenta uma linha na página
++ Otimizar imagens:
+    JPEG: mais qualidade, mas é mais pesado
+    PNG: inferior ao JPEG, mas pode ser comprimido mantendo a qualidade
+    WEBP: formato criado pelo Google, melhor equilibrio entre qualidade e tamanho reduzido
+    SVG: formato usado para vetores, que são imagens geométricas super leves e que podem escalar para qualquer tamanho
++ Tamanho corretos de imagens:
+    Tamanhos grandes demais ficam pesada e pequenas demais ficam pixeladas
+    Se necessário use o atributo "srcset" para definir diferentes versões da imagem para diferentes dispositivos
