@@ -8,3 +8,5 @@
 + Tamanho corretos de imagens:
     Tamanhos grandes demais ficam pesada e pequenas demais ficam pixeladas
     Se necessário use o atributo "srcset" para definir diferentes versões da imagem para diferentes dispositivos
++ Div organiza as informações em bloco e span em linha
++ Url absoluta começa da raiz (/) é o caminho completo da pagina e relativa é uma parte do caminho sendo deduzido pelos pontos e barras
