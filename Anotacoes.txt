@@ -10,3 +10,4 @@
     Se necessário use o atributo "srcset" para definir diferentes versões da imagem para diferentes dispositivos
 + Div organiza as informações em bloco e span em linha
 + Url absoluta começa da raiz (/) é o caminho completo da pagina e relativa é uma parte do caminho sendo deduzido pelos pontos e barras
++ li*3: cria 3 elementos li. Pode ser usado para qualquer elemento
